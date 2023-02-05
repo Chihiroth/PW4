@@ -1,0 +1,15 @@
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\bin\Debug\net6.0\DeepDarkFantasy.exe
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\bin\Debug\net6.0\DeepDarkFantasy.deps.json
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\bin\Debug\net6.0\DeepDarkFantasy.runtimeconfig.json
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\bin\Debug\net6.0\DeepDarkFantasy.dll
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\bin\Debug\net6.0\DeepDarkFantasy.pdb
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\obj\Debug\net6.0\DeepDarkFantasy.csproj.AssemblyReference.cache
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\obj\Debug\net6.0\DeepDarkFantasy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\obj\Debug\net6.0\DeepDarkFantasy.AssemblyInfoInputs.cache
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\obj\Debug\net6.0\DeepDarkFantasy.AssemblyInfo.cs
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\obj\Debug\net6.0\DeepDarkFantasy.csproj.CoreCompileInputs.cache
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\obj\Debug\net6.0\DeepDarkFantasy.dll
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\obj\Debug\net6.0\refint\DeepDarkFantasy.dll
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\obj\Debug\net6.0\DeepDarkFantasy.pdb
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\obj\Debug\net6.0\DeepDarkFantasy.genruntimeconfig.cache
+D:\Jojo\DeepDarkFantasy\DeepDarkFantasy\obj\Debug\net6.0\ref\DeepDarkFantasy.dll
